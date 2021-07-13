@@ -1,0 +1,44 @@
+ASSIGNMENT-1
+
+
+SOLVING EXPRESSONS &amp; IF COMMAND
+
+Q1. WAP to print two no. and print sum and product .
+Q2. WAP to find the roots of a quadratic eq.
+Q3.WAP to swap two no. without using third variable.
+Q4.WAP to swap two no. by using the third variable.
+Q5. WAP to take two no. and print greater one or print equal.
+Q6. WAP to take the age of the user and print if they are
+eligible to vote or not.
+Q7.WAP to find largest out of three no. entered by the user.
+Q8.WAP to take the grade from the user and give remark as per
+the table.
+
+GRADE REMARK
+
+A EXCELLENT
+B VERY GOOD
+C GOOD
+D WORK HARD
+E FAIL
+
+Q9.WAP to take the day of the week(1 to 7) and print the
+corresponding day of week.
+Q10. WAP to take a letter from user and print if letter is upper
+case alphabet, lowercase alphabet, digit or some other
+character
+Q11.WAP to accept monthly salary from the user, find and
+display income tax with the help of following rules:
+MONTHLY SALARY INCOME TAX
+9000 OR MORE 40% of monthly salary
+7500 - 8999 20% of monthly salary
+7499 OR LESS 10% of monthly salary
+Q12. WAP to accept 2 nos and an operator(+,-
+,*,/,//,%).According to operator,print the results.
+Q13. Calculate the Elecricity Bill according to points given
+below:-
+Units=Pres-Pres
+for units upto 100.....3 rs /unit
+for next 200 units...........5 rs/unit
+above 300 units.........7rs/unit
+meter rent=500

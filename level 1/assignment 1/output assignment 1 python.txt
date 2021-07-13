@@ -1,0 +1,90 @@
+
+#OUTPUT ATTACHED:
+
+'''
+
+PS C:\Users\agrimbishnoi> & C:/Users/agrimbishnoi/AppData/Local/Programs/Python/Python37-32/python.exe "d:/workings/personal codes/assignments school;/assignent-practicle-1-1.py"
+Enter value of first number : 23
+Enter value of secong number : 23
+Sum is  46
+product is  529
+Enter number to be square rootes : 9
+Square root is  3.0
+Enter first number : 5
+Enter second number : 6
+Swap numbers are  6  and  5
+Enter value of first no. : 6
+Enter value of second no. : 7
+Swap numbers are respectively  7 6
+Enter value of first number : 23
+Enter value of second number : 34
+second number is greated.
+Enter your age : 3
+you cannot vote!
+Enter first number : 3
+Enter second number : 4
+Enter third number : 5
+largest =  5
+Enter name : agrim
+Enter marks in subject 1 : 2
+Enter marks in subject 2 : 33
+Enter marks in subject 3 : 43
+Enter marks in subject 4 : 53
+Enter marks in subject 5 : 43
+Grade E
+Enter any number between 1-7 : 5
+Friday
+Enter any character : G
+UPPERCASE alphabet.
+Enter the salary : 50000
+Tax calculated is  125000.0
+Enter first number : 32
+Enter second number : 23
+ + - * / % +
+Addition of numbers id 55
+Enter no. of units of previous month : 233
+Enter no. of units of present date : 2455
+PS C:\Users\agrimbishnoi> & C:/Users/agrimbishnoi/AppData/Local/Programs/Python/Python37-32/python.exe "d:/workings/personal codes/assignments school;/assignent-practicle-1-1.py"
+Enter value of first number : 34
+Enter value of secong number : 343
+Sum is  377
+product is  11662
+Enter number to be square rootes : 999
+Square root is  31.606961258558215
+Enter first number : 34
+Enter second number : 233
+Swap numbers are  233  and  34
+Enter value of first no. : 343
+Enter value of second no. : 3444
+Swap numbers are respectively  3444 343
+Enter value of first number : 34
+Enter value of second number : 443
+second number is greater.
+Enter your age : 34
+You can vote!
+Enter first number : 34
+Enter second number : 43
+Enter third number : 355
+largest =  355
+Enter name : agrim
+Enter marks in subject 1 : 55
+Enter marks in subject 2 : 55
+Enter marks in subject 3 : 55
+Enter marks in subject 4 : 55
+Enter marks in subject 5 : 55
+Grade D
+Enter any number between 1-7 : 7
+Sunday
+Enter any character : T
+UPPERCASE alphabet.
+Enter the salary : 500000
+Tax calculated is  200000.0
+Enter first number : 34
+Enter second number : 43
+ + - * / % /
+Addition of numbers id 0.7906976744186046
+Enter no. of units of previous month : 500
+Enter no. of units of present date : 507
+Bill :  521
+
+'''
