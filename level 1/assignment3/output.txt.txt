@@ -1,0 +1,268 @@
+PS C:\Users\agrimbishnoi\Desktop\STUFF\weekly 2 computer\assignment3> python .\whileloop.py
+
+
+Q1)Print  SFS  5 times.
+
+
+sfs
+sfs
+sfs
+sfs
+sfs
+
+
+Q2)Calculate the factorial of a given number.
+
+
+Enter a number : 22
+1124000727777607680000
+
+
+WAP to input integers till user wants.Print  the sum of even nos. and sum of odd nos.
+
+
+Enter a number : 22
+Odd numbers :  121
+Even numbers :  132
+
+
+Q5)Input any integer, print its individual digits
+
+
+enter number : 22
+2
+2
+
+Q10) Input some numbers till the user wants. Total them and print the total.
+
+Enter a number to add or a string to break : 22
+Enter a number to add or a string to break : 22
+Enter a number to add or a string to break : 22
+Enter a number to add or a string to break : d
+even sum 66
+odd sum
+
+Input any two numbers. Calculate ‘a’ to the power’ b ‘without using a**b.
+
+Enter a number : 22
+Enter its power : 22
+3.4142787736421956e+29
+
+
+Q8)Check if the given number is a palindrome number.
+
+
+Enter any number :22
+The number is palindrome
+
+
+Q9)Check if the given number is  a perfect number.ex-6,28
+
+
+Enter any number: 22
+Non Perfect number
+
+
+Input some numbers till the user wants. Total them and print the total.
+
+
+
+
+Q6)Print the sum of digits of a given integer.
+
+
+enter number : 22
+4
+
+
+Q7)Check if the given number is an armstrong number.ex-153,407
+
+
+Enter a  3 digit number : 407
+407 - Armstrong number
+
+
+Q8)Check if the given number is a palindrome number.
+
+
+Enter a number : 22
+The number is a palindrome!
+
+
+Q12) WAP asking the user to guess a no from a given range. Do not allow more than 3 chances.
+
+
+Enter a number : 3
+
+
+
+
+Q13)Write a menu- driven program to-
+1)Calculate sum
+2)Calculate product
+3)Calculate difference
+4)Calculate division
+5)Exit
+
+
+
+
+
+
+
+1)Calculate sum
+'sum'
+
+2)Calculate product
+'product'
+
+3)Calculate difference
+'difference'
+
+4)Calculate division
+'division'
+
+5)Exit
+'exit'
+
+
+
+Enter 1st number : 2
+Enter 2nd number : 3
+Enter a command from syntax : sum
+5
+Enter 1st number : 33
+Enter 2nd number : 33
+Enter a command from syntax : exit
+
+
+        Q14)Print prime numbers in range(2,100).
+
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+
+
+15)Write a menu driven program to-
+
+1)Check if the  given number is  Armstrong number.
+'armstrong'
+
+2)Check if the given number is  Palindrome number.
+'palindrome'
+
+3)Check if the given number is a  Perfect number.
+(eg:- 28=1+2+4+7+14)sum of proper divisors.
+'perfect'
+
+
+
+
+
+
+
+Enter the number : 22
+Enter a command from synrax : palindrome
+The number is palindrome!
+Enter the number : 3323
+Enter a command from synrax : palindrome
+Not a palindrome!
+Enter the number : 1221
+Enter a command from synrax : exit
+PS C:\Users\agrimbishnoi\Desktop\STUFF\weekly 2 computer\assignment3>
