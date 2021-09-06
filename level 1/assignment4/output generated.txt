@@ -1,0 +1,217 @@
+PS C:\Users\agrimbishnoi\Desktop\everything\STUFF\weekly 2 computer\assignment4> python .\string.py
+
+
+Q1) Print a string in cyclic order.
+
+
+Enter a string : agrim rai
+iar mirga
+agrim rai
+
+
+Q2) Print alternate characters of string
+
+
+Enter a string : schoo;
+sho
+
+
+Q3) Replace every occurace of character in opposite case.
+
+
+Enter a string : Tomatos
+T
+o
+m
+a
+t
+o
+s
+
+
+Printing frequency of a character in a string.
+Also print its frequency table.
+
+
+Enter any string : computer python
+Char for counting : t
+2
+
+
+Q5)WAP a program to find the frequency of any particular alphabet in a string entered by a user.
+Also make a frequency Table for each alphabet.
+
+
+Give a string : javascript
+j  frequency has  1
+a  frequency has  2
+v  frequency has  1
+a  frequency has  2
+s  frequency has  1
+c  frequency has  1
+r  frequency has  1
+i  frequency has  1
+p  frequency has  1
+t  frequency has  1
+alphabets in string are  javscript
+
+
+Q6) WAP to input a string and capitalize every word’s first letter.
+
+
+enter a string : bike car
+Bike Car
+
+
+Q7) Input any string and count the number of alphabets,digits and spaces.
+
+
+enter a stringstrings123231
+alpha :  7
+digit :  6
+space :  0
+
+
+ WAP to print reverse of given string.(Using Slicing)
+
+
+Enter a string : reversethis
+sihtesrever
+
+
+Q9) Check if given string is palindrome or not
+
+
+Enter a string : nitin
+palindrome.
+
+
+Q15) Replace all the occurances of “is” to “was”.
+
+
+Enter any string : he is good
+he is good
+he was good
+
+
+Q16) Input a string and a substring.Display the position of substring in string.
+
+
+Enter a string : agrim bishnoi
+Enter a sub string : bis
+Word is at  6  level
+
+
+Q14) Input any string,form another string where every alternate char is capitalized
+
+
+Enter a string : Agrim rrr
+Aagrim rrrRagrim rrrMagrim rrrRagrim rrrR
+
+
+Q13) Remove vowels and form another string from given strig without vowels.
+
+
+Enter a string : aeiorisas
+rss
+
+
+Q12) Find sum of digits from a given string.
+
+
+Enter a string : asd6sa76d6as7d6s7adas
+Sum of digits is :  45
+
+
+Q11) Count number of vowels in a given string.
+
+
+enter a string : asdasdoapaa
+Number of vovules are  aaoaaa
+
+patterns
+
+a)
+@
+@ @
+@ @ @
+@ @ @ @
+@ @ @ @ @
+
+
+ @
+ @  @
+ @  @  @
+ @  @  @  @
+ @  @  @  @  @
+
+
+a
+a b
+a b c
+a b c d
+
+
+
+a
+a b
+a b c
+a b c d
+
+
+a b c d
+a b c
+a b
+a
+
+
+a b c d
+a b c
+a b
+a
+
+
+I
+IN
+IND
+INDI
+INDIA
+
+
+
+I
+I N
+I N D
+I N D I
+I N D I A
+
+
+INDIA
+INDI
+IND
+IN
+I
+
+
+
+I N D I A
+I N D I
+I N D
+I N
+I
+PS C:\Users\agrimbishnoi\Desktop\everything\STUFF\weekly 2 computer\assignment4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
