@@ -1,0 +1,86 @@
+output gernerated
+
+
+========= RESTART: C:\Users\agrimbishnoi\Desktop\list asssignment.py =========
+ WAP to search for an element in a given list of numbers using Linear Search.
+Enter list : [2,13,12,4,55]
+Enter element to be searched : 3
+Elemnt not found
+WAP to count frequency of a given element in list of numbers.
+Enter list : [2,13,12,4,55]
+Enter element to be searched for frequency : 12
+Frequency of elemnt is  1
+WAP to input a list of integers. Find the total and average of same.
+Enter list : [2,13,12,4,55]
+sum= 86
+average= 17.2
+Find minimum and maximum from list of integers
+Enter list : [2,13,12,4,55]
+Maximum value in list is  55
+Minimum value in list is  2
+Input the list of numbers. Count negative,positive and zero elements
+Enter a list : [2,13,12,4,55]
+There are 0  zeros in list.
+There are 5  positives in list.
+There are 0  negatives in list.
+Count even, odd and 0 elements from the list
+Enter a list : [2,13,12,4,55]
+There are 0  zeros in list.
+There are 3  evens in list.
+There are 2  odds in list.
+Enter out a list : [2,13,12,4,55]
+biggest 55
+second big 13
+Enter out a list : [2,13,12,4,55]
+[55, 4, 12, 13, 2]
+BUBBLE SORT
+Enter a list : [2,13,12,4,55]
+[2, 4, 12, 13, 55]
+Enter a list : [2,13,12,4,55]
+[2, 4, 12, 13, 55]
+Q10)INSERTION SORT
+[2, 4, 12, 13]
+Search for an element using BINARY Search
+Enter number to be searched:12
+Found at -1
+What to add element? y/ny
+Enter a number : 34
+What to add element? y/ny
+Enter a number : 55
+What to add element? y/ny
+Enter a number : 67
+What to add element? y/ny
+Enter a number : 22
+What to add element? y/nn
+[34, 55, 67, 22]
+List before swap: [34, 55, 67, 22]
+List after swap: [55, 34, 22, 67]
+answer in 'y' for yes and in 'n' for no.
+agrim
+Do you want to keep?y
+raj
+Do you want to keep?n
+Deleted!
+salman
+Do you want to keep?y
+ram
+Do you want to keep?n
+Deleted!
+lakhan
+Do you want to keep?y
+Gandhi
+Do you want to keep?n
+Deleted!
+Rahul
+Do you want to keep?y
+['agrim', 'salman', 'lakhan', 'Rahul']
+Enter a list : [2,13,12,4,55]
+There are  2 prime numbers in list.
+Enter a list : [2,13,12,4,55]
+[2, 13]
+12
+[4, 55]
+swapped list is generated.
+[55, 4, 12, 13, 2]
+>>> 
+
