@@ -1,0 +1,123 @@
+
+Q1 WAP to input n numbers, store it in a tuple and display the elements of the tuple.
+
+
+Enter number of elemnets to be added in tuple : 5
+Enter elemnet : 43
+Enter elemnet : 23
+Enter elemnet : 56
+Enter elemnet : 34
+Enter elemnet : 11
+(43, 23, 56, 34, 11)
+
+
+Q2 Input n numbers store it in a tuple.
+Find the minimum and maximum values in the tuple.
+
+
+Enter number of elemnets to be added in tuple : 4
+Enter elemnet : 32
+Enter elemnet : 453
+Enter elemnet : 13
+Enter elemnet : 566
+(32, 453, 13, 566)
+using direct functions..
+Minimum most elemnet :  13
+Maximum most elemnet :  566
+using for loop..
+Minimum most elemnet :  13
+Maximum most elemnet :  566
+
+
+Q3 Input the elements in two tuples. Interchange the tuple values.
+
+
+Enter a tuple1 : (1,23,4,66)
+Enter a tuple2 : (24,25,2,34,3)
+(1, 23, 4, 66) (24, 25, 2, 34, 3)
+After swapping..
+tuple1 :  (24, 25, 2, 34, 3)
+tuple2 :  (1, 23, 4, 66)
+
+
+Q4 Input five subject names and store it in a tuple.Display the tuple on the screen.
+
+
+Enter subject name to be entered : physics
+Enter subject name to be entered : computer
+Enter subject name to be entered : pe
+Enter subject name to be entered : art
+Enter subject name to be entered : maths
+('physics', 'computer', 'pe', 'art', 'maths')
+
+
+Q5 Find the sum and average of n numbers stored in a tuple.
+
+
+Enter a tuple : (1,123,14,23523,145)
+sum =  23806
+average =  4761.2
+
+
+Q6 Input n numbers, store it in a tuple. Separate the
+tuple in the following manner:-
+T = (10,20,30,40,50,60)
+T1 = (10,30,50)
+T2 = (20,40,60)
+
+
+Enter a tuple : (10,20,40,6,7,8)
+using slicing..
+(10, 40, 7) (20, 6, 8)
+using for loop...
+(10, 40, 7) (20, 6, 8)
+
+
+Q7 Input the elements in the tuple. Print each tuple
+element with the forward and backward index.
+
+
+
+Enter a tuple : (10,20,30,40,50)
+using slicing...
+10   10
+20   20
+30   30
+40   40
+using for loop...
+10   10
+20   20
+30   30
+40   40
+50   50
+
+
+Q8) Find the second largest number in the tuple.
+
+
+Enter tuple : (10,20,30,40)
+40 30
+
+
+Q9 WAP to Input numbers and find
+1) MEAN (t/n)
+2) MEDIAN (n/2+1 +n/2 )/2
+3) MODE
+4) STANDARD DEVIATION
+5) VARIANCE
+
+
+Enter a tuple : (345,234,15,135,1)
+using statistics module...
+mean of tupple  146
+median of tupple  135
+variance of tupple  21413
+standard variance of tupple  146.3318147225681
+
+
+check if tuple sorted by default.
+
+
+
+Enter a tuple: (10,20,30,40,50)
+tuple alredy in assending order

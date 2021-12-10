@@ -1,0 +1,42 @@
+
+QUESTION:
+
+
+Q1 WAP to input n numbers, store it in a tuple and
+display the elements of the tuple.
+
+Q2 Input n numbers store it in a tuple. Find the
+minimum and maximum values in the tuple.
+
+Q3 Input the elements in two tuples. Interchange the
+tuple values.
+
+Q4 Input five subject names and store it in a tuple.
+Display the tuple on the screen.
+
+Q5 Find the sum and average of n numbers stored in a
+tuple.
+
+Q6 Input n numbers, store it in a tuple. Separate the
+tuple in the following manner:-
+T = (10,20,30,40,50,60)
+T1 = (10,30,50)
+T2 = (20,40,60)
+
+Q7 Input the elements in the tuple. Print each tuple
+element with the forward and backward index.
+
+Q8 Find the second largest number in the tuple.
+
+Q9 WAP to Input numbers and find
+1) MEAN (t/n)
+2) MEDIAN (n/2+1 +n/2 )/2
+3) MODE
+4) STANDARD DEVIATION
+5) VARIANCE
+
+
+EXTRA QUESTIONS: 
+
+check if tuple sorted by default.
+include in assignment
