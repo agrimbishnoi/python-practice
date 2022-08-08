@@ -1,0 +1,108 @@
+
+    Menu driven:
+    1-Create  - Create and add elements in file
+    2-Display1- Filename defaulted as 'emp.dat'
+    3-Display2- Filename as argument
+    4-Search1 - Employee number
+    5-Search2 - Name - Single
+    6-Search3 - Name - Multiple
+    7-Search4 - Phone number 
+    8-Count Department - number of empl
+    9-Highest Salary1 - who has the highest salary
+    10-Highest Salary2 - what is the highest salary
+    11-Delete  - delete a employee
+    12-Update1 - using a list
+    13-Update2 - seek and tell function
+    14-Exit
+    
+Enter command : 1
+Input admission number : 1
+Enter name string : a
+Enter salary number : 100
+Enter department number: 1
+Enter phone number : 4565
+Repeat? : y
+Input admission number : 2
+Enter name string : b
+Enter salary number : 200
+Enter department number: 2
+Enter phone number : 45654
+Repeat? : y
+Input admission number : 3
+Enter name string : c
+Enter salary number : 60000
+Enter department number: 2
+Enter phone number : 4565467
+Repeat? : y
+Input admission number : 4
+Enter name string : d
+Enter salary number : 70000
+Enter department number: 1
+Enter phone number : 5654645
+Repeat? : y
+Input admission number : 5
+Enter name string : e
+Enter salary number : 100000
+Enter department number: 2
+Enter phone number : 234254432
+Repeat? : n
+Enter command : 2
+[1, 'a', 100, 1, 4565]
+[2, 'b', 200, 2, 45654]
+[3, 'c', 60000, 2, 4565467]
+[4, 'd', 70000, 1, 5654645]
+[5, 'e', 100000, 2, 234254432]
+Enter command : 3
+Enter file location : emp.dat
+[1, 'a', 100, 1, 4565]
+[2, 'b', 200, 2, 45654]
+[3, 'c', 60000, 2, 4565467]
+[4, 'd', 70000, 1, 5654645]
+[5, 'e', 100000, 2, 234254432]
+Enter command : 4
+Enter number : 1
+[1, 'a', 100, 1, 4565]
+found!
+Enter command : 5
+Enter name : a
+[1, 'a', 100, 1, 4565]
+found!
+Enter command : 6
+Enter name : b
+[2, 'b', 200, 2, 45654]
+found  1 Employees with name  b
+[2, 'b', 200, 2, 45654]
+Enter command : 7
+Enter number : 4565
+[1, 'a', 100, 1, 4565]
+found!
+Enter command : 8
+Enter department number : 1
+2 employees in department number  1
+Enter command : 9
+[5, 'e', 100000, 2, 234254432] has highest salary of  100000
+Enter command : 10
+highest salary is  100000
+Enter command : 11
+Enter number : 4
+Record found and deleted.
+Enter command : 12
+Enter number : 3
+[[1, 'a', 100, 1, 4565], [2, 'b', 200, 2, 45654], [3, 'c', 60000, 2, 4565467], [5, 'e', 100000, 2, 234254432]]
+Enter command : 2
+[1, 'a', 100, 1, 4565]
+[2, 'b', 200, 2, 45654]
+[3, 'c', 66000.0, 2, 4565467]
+[5, 'e', 100000, 2, 234254432]
+Enter command : 13
+Enter number : 5
+Updated salary
+Enter command : 2
+[1, 'a', 100, 1, 4565]
+[2, 'b', 200, 2, 45654]
+[3, 'c', 66000.0, 2, 4565467]
+[5, 'e', 110000.00000000001, 2, 234254432]
+Enter command : 13
+Enter number : 1
+Updated salary
+Enter command : 14

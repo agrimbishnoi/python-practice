@@ -1,0 +1,169 @@
+
+    Menu driven:
+    1-Create  
+    2-Display 
+    3-Search
+    4-Search above 90
+    5-Delete below 40
+    6-Grace 5 marks
+    7-Exit
+    
+Enter command : 1
+Enter addission number : 1
+Enter name : agrim
+Enter marks 1 : 88
+Enter marks 2 : 45
+Enter marks 3 : 100
+Reapeat : y
+Enter addission number : 2
+Enter name : james
+Enter marks 1 : 66
+Enter marks 2 : 33
+Enter marks 3 : 70
+Reapeat : y
+Enter addission number : 3
+Enter name : ronald
+Enter marks 1 : 12
+Enter marks 2 : 23
+Enter marks 3 : 12
+Reapeat : y
+Enter addission number : 4
+Enter name : tina
+Enter marks 1 : 98
+Enter marks 2 : 99
+Enter marks 3 : 97
+Reapeat : n
+
+    Menu driven:
+    1-Create  
+    2-Display 
+    3-Search
+    4-Search above 90
+    5-Delete below 40
+    6-Grace 5 marks
+    7-Exit
+    
+Enter command : 2
+admo :  1
+name :  agrim
+marks1 :  88
+marks2 :  45
+Marks3 :  100
+admo :  2
+name :  james
+marks1 :  66
+marks2 :  33
+Marks3 :  70
+admo :  3
+name :  ronald
+marks1 :  12
+marks2 :  23
+Marks3 :  12
+admo :  4
+name :  tina
+marks1 :  98
+marks2 :  99
+Marks3 :  97
+
+    Menu driven:
+    1-Create  
+    2-Display 
+    3-Search
+    4-Search above 90
+    5-Delete below 40
+    6-Grace 5 marks
+    7-Exit
+    
+Enter command : 3
+Enter adno to search : 3
+{'admo': 3, 'name': 'ronald', 'marks1': 12, 'marks2': 23, 'marks3': 12}
+found!
+
+    Menu driven:
+    1-Create  
+    2-Display 
+    3-Search
+    4-Search above 90
+    5-Delete below 40
+    6-Grace 5 marks
+    7-Exit
+    
+Enter command : 4
+1 student have scored more than 90 marks in all 3 subjects.
+They are named: 
+tina
+
+    Menu driven:
+    1-Create  
+    2-Display 
+    3-Search
+    4-Search above 90
+    5-Delete below 40
+    6-Grace 5 marks
+    7-Exit
+    
+Enter command : 5
+ronald Student deleted.
+
+    Menu driven:
+    1-Create  
+    2-Display 
+    3-Search
+    4-Search above 90
+    5-Delete below 40
+    6-Grace 5 marks
+    7-Exit
+    
+Enter command : 6
+Enter adno to grace : 3
+Not found!
+
+    Menu driven:
+    1-Create  
+    2-Display 
+    3-Search
+    4-Search above 90
+    5-Delete below 40
+    6-Grace 5 marks
+    7-Exit
+    
+Enter command : 6
+Enter adno to grace : 2
+Found!
+
+    Menu driven:
+    1-Create  
+    2-Display 
+    3-Search
+    4-Search above 90
+    5-Delete below 40
+    6-Grace 5 marks
+    7-Exit
+    
+Enter command : 2
+admo :  1
+name :  agrim
+marks1 :  88
+marks2 :  45
+Marks3 :  100
+admo :  2
+name :  james
+marks1 :  71
+marks2 :  38
+Marks3 :  75
+admo :  4
+name :  tina
+marks1 :  98
+marks2 :  99
+Marks3 :  97
+
+    Menu driven:
+    1-Create  
+    2-Display 
+    3-Search
+    4-Search above 90
+    5-Delete below 40
+    6-Grace 5 marks
+    7-Exit
+    
+Enter command : 7
